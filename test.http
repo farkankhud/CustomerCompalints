@@ -1,0 +1,7 @@
+POST https://internal-xsuaa.authentication.us10.hana.ondemand.com/oauth/token
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic 0b17e$SO5YminvRHW_c5J8qAKCwGCYCCr5_fwzrYLZyLwWdEA=' | base64
+c2ItNWFlYWI4ZGYtZjlkNS00ZDI3LWFkYmEtMzE1ZTZlODJlMjdkIWI0OTUwOTd8eHN1YWEhYjQ5
+MzkwOmRlZjBlNjk4LTU4NGUtNGY4Yi04YzQxLWU2MzdmMzcwYjE3ZSRTTzVZbWludlJIV19jNUo4
+cUFLQ3dHQ1lDQ3I1X2Z3enJZTFp5THdXZEVBPQ==
+grant_type=client_credentials
