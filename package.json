@@ -22,7 +22,8 @@
   },
   "scripts": {
     "start": "cds-serve",
-    "watch-custcomplaints": "cds watch --open ns.custcomp.custcomplaints/index.html?sap-ui-xx-viewCache=false --livereload false"
+    "watch-custcomplaints": "cds watch --open ns.custcomp.custcomplaints/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "test": "echo \"no tests configured\" && exit 0"
   },
   "workspaces": [
     "app/*"
