@@ -1,6 +1,6 @@
 
 using { sap.tickets as srv } from '../db/schema';
-
+@odata.draft.enabled
 service TicketService {
 
 @odata.draft.enabled
