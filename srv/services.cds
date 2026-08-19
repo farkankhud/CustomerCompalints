@@ -14,7 +14,7 @@ function trigger_workflow() returns String;
 annotate TicketService with @odata.draft.enabled; 
 
 service AdminService {
-
+@odata.draft.enabled:true
   entity Customers as projection on srv.customers;
     entity Incidents as projection on srv.Incidents;  
 
